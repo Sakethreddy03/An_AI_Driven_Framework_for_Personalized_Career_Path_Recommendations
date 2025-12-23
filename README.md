@@ -62,8 +62,6 @@ Make sure you have the following installed:
 - *Real-Time Job Market Analysis*: Offer popular career trends.
 
 ## 👩‍💻 Author
-Natuva Bhavana
+Sandi Saketh Reddy
 
-📧 natuvabhavana@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/bhavana-natuva-9295a12b7/
